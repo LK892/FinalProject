@@ -1,0 +1,4 @@
+(library
+ (name familyfeud)
+ (public_name FamilyFeud)
+ (libraries yojson ANSITerminal graphics lwt.unix))

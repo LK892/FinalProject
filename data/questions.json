@@ -1,0 +1,70 @@
+{
+  "questions": [
+    {
+      "question": "Name a profession where you may receive lots of mail from stangers",
+      "answers": [
+        {
+          "answer": [
+            "celebrity",
+            "celebs"
+          ],
+          "points": 50
+        },
+        {
+          "answer": [
+            "politician",
+            "president"
+          ],
+          "points": 30
+        },
+        {
+          "answer": [
+            "customer service",
+            "client service"
+          ],
+          "points": 12
+        },
+        {
+          "answer": [
+            "advice columnist",
+            "reporters"
+          ],
+          "points": 8
+        }
+      ]
+    },
+    {
+      "question": "Name something that's legal for a police officer to do, but not for anyone else",
+      "answers": [
+        {
+          "answer": [
+            "speed",
+            "speeding"
+          ],
+          "points": 57
+        },
+        {
+          "answer": [
+            "arrest someone",
+            "arresting someone"
+          ],
+          "points": 19
+        },
+        {
+          "answer": [
+            "run red lights",
+            "run a red light"
+          ],
+          "points": 16
+        },
+        {
+          "answer": [
+            "carry gun",
+            "use gun"
+          ],
+          "points": 8
+        }
+      ]
+    }
+  ]
+}
